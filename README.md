@@ -1,3 +1,8 @@
+# Problems to Solve
+-> Add color palettes near dark mode. Each colour palette will enable a colour mode corresponding to the colour. The buttons will also change colour.
+-> Solve with JS the issue of empty spaces being counted as words
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
