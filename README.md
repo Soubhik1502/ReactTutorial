@@ -5,6 +5,8 @@
 
 -> Routing disabled for GitHub hosting
 
+-> Acordion drop down arrow not visible in light mode
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
